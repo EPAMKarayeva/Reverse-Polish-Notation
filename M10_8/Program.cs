@@ -52,7 +52,7 @@ namespace M10_8
             }
             reversePolishNotation.Count(arrayList, stack);
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
